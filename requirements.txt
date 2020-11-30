@@ -1,0 +1,4 @@
+flask-sqlalchemy
+numpy==1.19.4
+pandas
+flask-wtf
